@@ -11,7 +11,7 @@ const SYSTEM_PROMPT = `You are Property AI, the digital concierge for Nadar Prop
 
 Firm facts:
 - Firm: Nadar Properties
-- Office: SCO 1, 2nd Floor, Sector 79, Sahibzada Ajit Singh Nagar, Punjab 140308
+- Office: DSS No. 129, Block F, Mohali City Centre, Aero City, S.A.S Nagar
 - Phone: +91 XXXXX XXXXX
 - GMADA empanelled, RERA registered (PB-RERA)
 - Practice: Residential, Commercial, Land/Plots, Investment Advisory, NRI Services, Title & Due Diligence
